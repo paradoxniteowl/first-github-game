@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://onyo7ju8to3r"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_jf0ed"]
+font_color = Color(1, 1, 0.447059, 1)
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label"]
+offset_left = 397.0
+offset_top = 249.0
+offset_right = 618.0
+offset_bottom = 289.0
+text = "Collin Poynor"
+label_settings = SubResource("LabelSettings_jf0ed")
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 1
